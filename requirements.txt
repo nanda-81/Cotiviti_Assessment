@@ -1,0 +1,24 @@
+# ==============================================================================
+# Clinical Chart Extractor — Cotiviti POC
+# requirements.txt  |  Strictly pinned for reproducible production builds.
+# ==============================================================================
+
+# ── Core UI Framework ──────────────────────────────────────────────────────────
+streamlit>=1.35.0,<2.0.0          # Enterprise dashboard UI
+
+# ── Google Generative AI (Gemini) ─────────────────────────────────────────────
+google-generativeai>=0.7.0,<1.0.0 # Gemini Pro API (free tier)
+
+# ── PDF Parsing Pipeline ──────────────────────────────────────────────────────
+pdfplumber>=0.11.0,<1.0.0         # Primary: layout-aware PDF text extraction
+PyPDF2>=3.0.0,<4.0.0              # Fallback: pure-python PDF reader
+
+# ── Data Validation & Modelling ───────────────────────────────────────────────
+pydantic>=2.7.0,<3.0.0            # Structured output validation
+
+# ── Environment & Configuration ───────────────────────────────────────────────
+python-dotenv>=1.0.0,<2.0.0       # .env file loading
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tenacity>=8.3.0,<9.0.0            # Retry logic with exponential backoff
+Pillow>=10.3.0,<11.0.0            # Image handling for scanned PDFs
