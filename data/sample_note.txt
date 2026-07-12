@@ -1,0 +1,378 @@
+HAROLD JAMES WHITFIELD — ENCOUNTER NOTE
+(SYNTHETIC / DE-IDENTIFIED — FOR DEMONSTRATION PURPOSES ONLY)
+All names, dates, identifiers, and addresses are fictitious.
+Generated under HIPAA Safe Harbor De-identification Standard (45 CFR §164.514(b)).
+
+================================================================================
+                    MOUNTAINVIEW INTERNAL MEDICINE ASSOCIATES
+                     1850 Cascade Ridge Blvd | Suite 310 | Denver, CO 80202
+                           Tel: (720) 555-0192  |  Fax: (720) 555-0193
+================================================================================
+
+PATIENT:         Whitfield, Harold J.         MRN: 00294817
+DATE OF BIRTH:   08/14/1959  (Age: 65)         SEX: Male
+INSURANCE:       BlueCross BlueShield (Federal Employee Plan)
+                 Member ID: XYZ-900284718      Group: 0047-G
+ENCOUNTER DATE:  03/22/2024                   PCP: Dr. Anita Ramachandran, MD
+ENCOUNTER TYPE:  Office Visit — Established Patient (E/M Level 4)
+REFERRING PHY:   Self-referred
+DICTATED:        03/22/2024 at 16:35          SIGNED: 03/22/2024 at 18:02
+
+================================================================================
+                              CHIEF COMPLAINT (CC)
+================================================================================
+
+Patient presents with a 3-week history of intermittent chest pain, worsening
+shortness of breath on exertion, and poorly controlled blood sugars. He also
+notes new-onset bilateral lower extremity edema and fatigue.
+
+================================================================================
+                         HISTORY OF PRESENT ILLNESS (HPI)
+================================================================================
+
+Harold Whitfield is a 65-year-old male with a longstanding history of Type 2
+Diabetes Mellitus (T2DM) and essential hypertension who presents today for a
+follow-up visit. He reports his blood glucose readings at home have been
+consistently elevated over the past three weeks, ranging from 280 to 360 mg/dL
+fasting, despite compliance with his insulin regimen. He attributes this
+deterioration to recent dietary indiscretions associated with a family gathering.
+
+Additionally, the patient reports new-onset chest pain that he describes as a
+"pressure-like" sensation in the mid-sternal area, radiating to the left arm,
+occurring primarily with exertion (e.g., walking two city blocks) and relieved
+with rest. He denies palpitations, syncope, or diaphoresis accompanying the
+chest pain episodes. He rates the pain 5-6/10 at peak.
+
+The patient also notes progressive dyspnea on exertion (DOE) over the past two
+weeks, now limiting him to less than one flight of stairs. He denies orthopnea
+or paroxysmal nocturnal dyspnea (PND). He has noticed bilateral ankle swelling
+that is worse in the evenings.
+
+Review of Systems (ROS):
+  [+] Chest pressure/pain, dyspnea on exertion, bilateral leg edema, fatigue,
+      increased thirst (polydipsia), increased urination (polyuria), blurred
+      vision (intermittent), numbness/tingling in bilateral feet (chronic).
+  [-] Fever, chills, nausea/vomiting, abdominal pain, cough, hemoptysis,
+      syncope, palpitations, diarrhea, hematuria.
+
+================================================================================
+                              PAST MEDICAL HISTORY (PMH)
+================================================================================
+
+  1.  Type 2 Diabetes Mellitus (T2DM) — Diagnosed 2007, on insulin since 2019.
+      Last HbA1c: 10.2% (Result date: 01/10/2024). Target: <7.0%.
+  2.  Essential Hypertension — Diagnosed 2005. Currently suboptimally controlled.
+      Last BP on record: 158/96 mmHg (Visit date: 01/10/2024).
+  3.  Hyperlipidemia (Mixed dyslipidemia) — Diagnosed 2010.
+      Last LDL: 142 mg/dL (Result date: 01/10/2024). Target: <70 mg/dL.
+  4.  Peripheral Neuropathy (Diabetic) — Bilateral lower extremities. Dx: 2020.
+  5.  Chronic Kidney Disease (CKD) Stage 3a — eGFR: 52 mL/min/1.73m² (01/2024).
+  6.  Obesity — BMI: 34.2 kg/m². (Weight: 218 lbs, Height: 5'10").
+  7.  Obstructive Sleep Apnea (OSA) — Diagnosed 2021. On CPAP therapy (reported
+      poor compliance, using 2-3 nights per week).
+
+================================================================================
+                              SURGICAL HISTORY
+================================================================================
+
+  - Appendectomy (1988, uncomplicated)
+  - Right knee arthroscopy for meniscal repair (2015)
+
+================================================================================
+                           FAMILY HISTORY (FH)
+================================================================================
+
+  - Father:  Deceased at age 70, acute myocardial infarction.
+  - Mother:  Alive, age 88, Alzheimer's disease, T2DM.
+  - Brother:  Living, age 63, coronary artery disease (stents placed 2021), T2DM.
+  - Sister:   Living, age 60, breast cancer (in remission).
+
+================================================================================
+                              SOCIAL HISTORY (SH)
+================================================================================
+
+  - Tobacco:    Former smoker; 20 pack-year history. Quit 2010.
+  - Alcohol:    Social drinker; 2-3 beers/week. Denies binge drinking.
+  - Illicit Drugs: Denies.
+  - Occupation: Retired postal worker (30 years). Now sedentary lifestyle.
+  - Living Situation: Married, lives with wife. Two adult children.
+  - Exercise:   Minimal. Denies structured exercise program.
+  - Diet:       High-carbohydrate; poor adherence to diabetic diet.
+
+================================================================================
+                          CURRENT MEDICATIONS (Rx)
+================================================================================
+
+  1.  Insulin Glargine (Lantus) U-100       — 42 units SQ QHS (bedtime).
+  2.  Insulin Lispro (Humalog) U-100        — Sliding scale, SQ with meals.
+  3.  Lisinopril 10 mg                      — 1 tab PO QDay (hypertension/CKD).
+  4.  Amlodipine 5 mg                       — 1 tab PO QDay (hypertension).
+  5.  Atorvastatin 40 mg                    — 1 tab PO QHS (hyperlipidemia).
+  6.  Aspirin 81 mg (enteric-coated)        — 1 tab PO QDay (cardioprotective).
+  7.  Gabapentin 300 mg                     — 1 cap PO TID (diabetic neuropathy).
+  8.  Metformin 500 mg                      — 1 tab PO BID (T2DM adjunct).
+      ** NOTE: Metformin use with eGFR 52 — borderline; requires monitoring.
+  9.  Omeprazole 20 mg                      — 1 cap PO QDay (GI prophylaxis).
+  10. Vitamin D3 2000 IU                    — 1 cap PO QDay (supplementation).
+
+================================================================================
+                                   ALLERGIES
+================================================================================
+
+  - Penicillin:      Rash (Moderate). Last reaction: 1998.
+  - Sulfa drugs:     GI upset (Mild).
+  - Contrast dye:    No documented allergy; pre-medication protocol PRN.
+  - NKDA to latex.
+
+================================================================================
+                              PHYSICAL EXAMINATION
+================================================================================
+
+VITAL SIGNS:
+  Blood Pressure:    162/98 mmHg (Left arm, seated)
+  Heart Rate:        88 bpm (Regular)
+  Respiratory Rate:  18 breaths/min
+  Temperature:       98.4°F (36.9°C) — Oral
+  SpO2:              96% on room air
+  Weight:            218.4 lbs (99.1 kg)
+  BMI:               34.2 kg/m²
+
+GENERAL: Alert, oriented ×3. Well-nourished, mildly obese male. No acute
+          distress. Mildly diaphoretic.
+
+HEAD/EYES/EARS/NOSE/THROAT (HEENT): Normocephalic, atraumatic. Pupils equal,
+  round, and reactive to light (PERRL). Oropharynx clear. No lymphadenopathy.
+  Fundoscopic exam deferred to ophthalmology referral.
+
+CARDIOVASCULAR: Regular rate and rhythm. S1 and S2 present. A soft S3 gallop
+  is appreciated at the apex. No murmurs or rubs heard. PMI laterally displaced
+  (5th ICS, mid-axillary line — suggestive of cardiomegaly).
+
+PULMONARY: Mild bibasilar crackles (rales) on auscultation. No wheeze or rhonchi.
+  Percussion: dull at bilateral lung bases.
+
+ABDOMEN: Soft, non-tender, non-distended. Bowel sounds active ×4. No
+  hepatosplenomegaly. No abdominal bruits.
+
+EXTREMITIES: 2+ pitting edema bilateral ankles and lower legs (to mid-calf).
+  Skin intact. No ulcerations or wounds noted. Bilateral dorsalis pedis pulses
+  palpable but diminished (1+). Capillary refill >3 seconds, bilateral toes.
+
+NEUROLOGICAL: Alert and oriented. Cranial nerves II-XII grossly intact.
+  Monofilament testing (10g Semmes-Weinstein): Absent protective sensation
+  bilaterally in plantar surface and all toes (consistent with peripheral
+  neuropathy). Vibration sense decreased bilateral feet.
+
+SKIN: No jaundice. Several acanthosis nigricans patches noted on posterior neck
+  and bilateral axillae (consistent with insulin resistance).
+
+================================================================================
+                         LABORATORY RESULTS (IN-OFFICE / RECENT)
+================================================================================
+
+Today's Point-of-Care Testing:
+  - Random Plasma Glucose:  334 mg/dL   [Critical High: >250] ⚠
+  - Urine Dipstick:         3+ glucose, 2+ protein
+
+Recent Lab Results (reference: Quest Diagnostics, 01/10/2024):
+  - HbA1c:                 10.2%        [Goal: <7.0%]  ⚠ CRITICALLY HIGH
+  - eGFR (CKD-EPI):         52 mL/min   [CKD Stage 3a — Monitor closely]
+  - Serum Creatinine:       1.42 mg/dL
+  - BUN:                    24 mg/dL
+  - Potassium:              4.1 mEq/L
+  - Sodium:                 138 mEq/L
+  - LDL Cholesterol:        142 mg/dL   [Goal: <70 mg/dL for DM]  ⚠ HIGH
+  - HDL Cholesterol:        38 mg/dL    [Low — cardiovascular risk factor]
+  - Triglycerides:          285 mg/dL   [High]  ⚠
+  - AST/ALT:                32/28 U/L   [WNL]
+  - TSH:                    2.1 mIU/L   [WNL]
+  - Microalbumin/Creatinine Ratio: 185 mg/g  [Moderately Increased — Diabetic Nephropathy]
+
+TODAY'S ORDERS:
+  - 12-Lead ECG: Ordered (results pending at time of dictation)
+  - BNP (Brain Natriuretic Peptide): Ordered
+  - CMP, CBC, Lipid Panel: Ordered (fasting, next AM)
+  - Chest X-ray (PA/Lateral): Ordered
+
+================================================================================
+                          ASSESSMENT AND PLAN (A/P)
+================================================================================
+
+ATTENDING PHYSICIAN: Dr. Anita Ramachandran, MD  |  NPI: 1234567890
+CLINICAL DECISION SUPPORT: This assessment reflects independent clinical
+  judgment. Recommendations follow ADA Standards of Medical Care in Diabetes
+  2024 and ACC/AHA Cardiovascular Guidelines.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 1: UNCONTROLLED TYPE 2 DIABETES MELLITUS  [ICD-10: E11.65]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: Patient's HbA1c of 10.2% represents critically uncontrolled T2DM
+  (target <7.0%). Likely exacerbated by dietary non-compliance, physical
+  inactivity, subtherapeutic insulin dosing, and physiological stress.
+  Note: Hyperglycemic hyperosmolar state (HHS) risk given glucose of 334.
+
+Plan:
+  - Increase Insulin Glargine from 42 units to 52 units SQ QHS.
+  - Continue Insulin Lispro sliding scale; consider increasing correction factor.
+  - Refer to Certified Diabetes Care and Education Specialist (CDCES).
+  - Reinforce Medical Nutrition Therapy (MNT); low-carbohydrate dietary guidance.
+  - Repeat HbA1c in 3 months.
+  - Consider adding GLP-1 receptor agonist (e.g., semaglutide) at follow-up
+    if glucose not controlled and CKD stage permits.
+  - Hold Metformin reassessment pending renal function review (eGFR 52).
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 2: NEW-ONSET CHEST PAIN — RULE OUT ACUTE CORONARY SYNDROME (ACS)
+            [Suspected: Unstable Angina or NSTEMI — ICD-10: I20.0 / R07.9]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: Exertional pressure-type chest pain radiating to the left arm in a
+  65-year-old male with T2DM, hypertension, hyperlipidemia, obesity, family
+  history of MI, and prior smoking history is HIGHLY CONCERNING for obstructive
+  coronary artery disease (CAD) or ACS. The constellation of symptoms warrants
+  urgent cardiac evaluation. A "silent MI" in the context of diabetic autonomic
+  neuropathy cannot be excluded.
+
+Plan:
+  - **URGENT**: Obtain 12-Lead ECG now (stat read). If ST-elevation or LBBB:
+    activate emergency cardiac protocol immediately.
+  - Obtain troponin I/T (high-sensitivity) serially (0h, 3h).
+  - BNP ordered — evaluate for concurrent HF.
+  - Chest X-ray to assess cardiac silhouette and pulmonary vascular markings.
+  - Cardiology URGENT referral placed (Dr. Marcus Chen, MD — notified by phone).
+  - Do NOT discharge patient without cardiology clearance today.
+  - Aspirin 325 mg loading dose: Administer now (patient already on 81mg ASA).
+  - NPO status pending procedural decisions.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 3: SUSPECTED NEW-ONSET HEART FAILURE (Systolic vs. Diastolic)
+            [ICD-10: I50.9 — Pending confirmation]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: Clinical findings — bilateral basibasal rales, bilateral pitting
+  edema 2+, laterally displaced PMI, and an S3 gallop — are consistent with
+  new-onset heart failure, possibly ischemic in etiology given the concurrent
+  chest pain presentation. The displaced PMI suggests left ventricular
+  enlargement.
+
+Plan:
+  - BNP result pending; if elevated (>400 pg/mL), treat as decompensated HF.
+  - Echocardiogram (transthoracic — TTE) ordered to assess EF and wall motion.
+  - Consider IV furosemide if significant volume overload confirmed.
+  - Fluid restriction: 1.5L/day counselling provided.
+  - Daily weight monitoring; return if weight gain >3 lbs in 24h.
+  - Cardiology to guide definitive HF management (GDMT initiation as appropriate).
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 4: ESSENTIAL HYPERTENSION — SUBOPTIMALLY CONTROLLED [ICD-10: I10]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: BP 162/98 mmHg today despite dual antihypertensive therapy.
+  Suboptimal control likely contributing to both CKD progression and increased
+  cardiac strain. Target BP: <130/80 mmHg (ADA/ACC 2024 guideline).
+
+Plan:
+  - Increase Lisinopril from 10 mg to 20 mg PO QDay (after confirming stable K+).
+  - Consider adding a thiazide diuretic (chlorthalidone 25 mg) if no response
+    at next visit.
+  - DASH diet counselling reinforced.
+  - Home BP monitoring: twice daily readings log requested.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 5: HYPERLIPIDEMIA — INADEQUATELY TREATED [ICD-10: E78.5]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: LDL 142 mg/dL is critically above the <70 mg/dL target for a
+  diabetic patient with multiple cardiovascular risk factors. Current statin
+  dose (Atorvastatin 40 mg) is insufficient. ASCVD risk is very high.
+
+Plan:
+  - Uptitrate Atorvastatin from 40 mg to 80 mg QHS (maximum intensity statin).
+  - If LDL remains >70 mg/dL at 3-month recheck: initiate ezetimibe 10 mg/day.
+  - PCSK9 inhibitor consideration deferred pending cardiology evaluation.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 6: DIABETIC PERIPHERAL NEUROPATHY — PROGRESSING [ICD-10: E11.40]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: Loss of protective sensation bilaterally on monofilament testing
+  confirms high-risk foot status. Capillary refill >3 sec suggests concurrent
+  peripheral artery disease (PAD) — evaluation warranted.
+
+Plan:
+  - Podiatry referral placed for comprehensive foot examination.
+  - Ankle-Brachial Index (ABI) ordered to screen for PAD.
+  - Continue Gabapentin 300 mg TID; reassess pain control.
+  - Patient education: daily foot inspection, proper footwear.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 7: CHRONIC KIDNEY DISEASE STAGE 3a — DIABETIC NEPHROPATHY
+            [ICD-10: N18.3 / E11.65 with N18.3]
+─────────────────────────────────────────────────────────────────────────────
+Assessment: Microalbumin/Cr ratio of 185 mg/g confirms significant
+  proteinuria consistent with diabetic nephropathy. eGFR 52. Trend monitoring
+  is critical to prevent progression to Stage 4/5.
+
+Plan:
+  - Nephrology referral placed for co-management.
+  - Monitor eGFR and microalbumin quarterly.
+  - Maintain Lisinopril (ACE-I nephroprotective role).
+  - Dietary protein restriction: 0.8g/kg/day counselling.
+  - Review Metformin dosing — hold if eGFR drops <45.
+  - Consider SGLT2 inhibitor (e.g., empagliflozin) — significant renoprotective
+    and cardioprotective benefit; coordinate with cardiology and nephrology.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 8: OBESITY [ICD-10: E66.09]
+─────────────────────────────────────────────────────────────────────────────
+Plan:
+  - Dietary counselling re: caloric restriction.
+  - Refer to Medical Weight Management clinic.
+  - GLP-1 agonist (semaglutide) under consideration — dual benefit for T2DM
+    and weight reduction; pending CKD clearance.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 9: OBSTRUCTIVE SLEEP APNEA — POOR CPAP COMPLIANCE [ICD-10: G47.33]
+─────────────────────────────────────────────────────────────────────────────
+Plan:
+  - Sleep Medicine referral for CPAP compliance monitoring and resetting.
+  - Counselled on cardiovascular risk of untreated OSA (HTN, arrhythmia, HF).
+  - Mandate 7-day compliance download at next Sleep Medicine visit.
+
+─────────────────────────────────────────────────────────────────────────────
+PROBLEM 10: PREVENTIVE CARE GAPS / MISSING ITEMS (FLAGGED BY CARE COORDINATOR)
+─────────────────────────────────────────────────────────────────────────────
+  ⚠ Overdue: Dilated eye exam (last documented: 2022 — OVERDUE)
+  ⚠ Overdue: Dental exam (last documented: unknown)
+  ⚠ Overdue: Colorectal cancer screening (no colonoscopy on file — age 65)
+  ⚠ Missing: Pneumococcal (PPSV23/PCV20) vaccination — immunocompromised (DM)
+  ⚠ Missing: Annual influenza vaccine (current season not documented)
+
+================================================================================
+                                  DISPOSITION
+================================================================================
+
+Patient is NOT cleared for discharge today. Urgent cardiology evaluation has
+been requested and is pending. Patient and wife were counselled on the urgency
+of today's findings, specifically the cardiac symptomatology requiring immediate
+investigation.
+
+Anticipated next steps:
+  1. ECG and troponin results — stat.
+  2. Cardiology bedside evaluation today.
+  3. Possible hospital admission for cardiac monitoring (telemetry).
+  4. If safe for outpatient: follow-up in 48 hours.
+
+Patient verbalized understanding of the plan. Questions were addressed. Wife
+(Mrs. Eleanor Whitfield) was present and engaged in the discussion.
+
+================================================================================
+ELECTRONICALLY SIGNED BY:
+  Dr. Anita Ramachandran, MD — Internal Medicine
+  Board Certified: Internal Medicine, Endocrinology
+  NPI: 1234567890  |  DEA: AR1234567
+  Mountainview Internal Medicine Associates
+  Signed: 03/22/2024 at 18:02 EST
+================================================================================
+
+*** IMPORTANT NOTICE ***
+This document contains SYNTHETIC, ENTIRELY FICTITIOUS data created solely for
+demonstration and testing purposes. It does not represent any real patient,
+provider, or clinical encounter. No real PHI is present.
+Generated in compliance with HIPAA Safe Harbor De-identification Standards.
+================================================================================
